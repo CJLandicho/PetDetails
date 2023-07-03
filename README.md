@@ -14,3 +14,5 @@
 ### 3. Implement features and functionalities that promote the aniamal ahelter and responsible pet ownership by:
 ### 3.1 Providing educational resources and information about pet care.
 ### 3.2 Implementing two ways of helping the shelter by adopting and donating.
+
+# Members: Christine Julianne Landicho, Nikka Mae Perez
