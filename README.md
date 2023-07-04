@@ -1,18 +1,15 @@
-# SAGIPET: Developing a Pet Adoption Management System 
-## Description
-### It is designed exclusively for God"s Home Refuge. It also cocentrates on the three R's of jthe shelter which is their goal and these are to rescue, rehome and rehabilitate. The animals that will found in the shelter to adopt are only cats and dogs, no other animals other  than be mentioned ones are available for adoption.
+# SAGIPET: Developing a Pet Adoption Managemnt
+## What is the purpose of this web-based system? 
 
-## Ojectives of the Study
-### 1. Develop a user friendy web based system that simplifies the adoption process and improves customer satidfaction by:
-### 1.1 Providing a platform to view and adopt the pets of GHOR shelter online.
-### 1.2 Design features to make the adoption process faster and convinient.
+### This web-based system purpose is to help the adoption rate higher and the adoption process faster. Since adoption isn't  given much attention and animals are being stereotyped for having behavioral problems or sickness of some sort. It is the systems honor and voice to break this cycle, just like other cats and dogs with breeds stray cats and dogs gives the same even twice as much love, care and appreciation as other breeds could give.
 
-### 2. Generate real time reports to improve service management and decision makingf, including:
-### 2.1 Inventory management of pets and supplies.
-### 2.2 Adoption success rates and trends.
-
-### 3. Implement features and functionalities that promote the aniamal ahelter and responsible pet ownership by:
-### 3.1 Providing educational resources and information about pet care.
-### 3.2 Implementing two ways of helping the shelter by adopting and donating.
-
-# Members: Christine Julianne Landicho, Nikka Mae Perez
+## If you are interested in adopting a pet, here are the steps to follow: 
+### 1. Create an account 
+### 1.1. The adoption process is as follows:
+### 1. Create an account 
+### 1.1. Fill out the information needed and make sure to fill it all with honesty.
+### 1.2. If you have created an account already you can go to sign-in page and log-in your username and password.
+### 2. Answer a few questions (these questions are part of the screening process for those who are interested in adopting a pet from the shelter.
+### 3. Choose or browse a pet of your choice that would match to your standards and can keep up with your activities on a daily basis. 
+### 4. If you've already chosen a pet, click the photo to see its information. 
+### 5. If you have more questions, you can read the faqs or chat with the client to know more information with regards to the pet you opt to adopt.
