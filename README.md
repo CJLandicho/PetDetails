@@ -19,3 +19,10 @@
 ### 3. Choose or browse a pet of your choice that would match to your standards and can keep up with your activities on a daily basis. 
 ### 4. If you've already chosen a pet, click the photo to see its information. 
 ### 5. If you have more questions, you can read the faqs or chat with the client to know more information with regards to the pet you opt to adopt.
+
+# Features:
+
+## An on the go web that can help track record of available pets.
+## Help to find a pet to match her personality & lifestyle.
+## A support system to help her learn how to best care for her adopted pet.
+## 
