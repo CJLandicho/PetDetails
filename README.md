@@ -19,6 +19,9 @@
 ### 3. Choose or browse a pet of your choice that would match to your standards and can keep up with your activities on a daily basis. 
 ### 4. If you've already chosen a pet, click the photo to see its information. 
 ### 5. If you have more questions, you can read the faqs or chat with the client to know more information with regards to the pet you opt to adopt.
+### 6. Check adoption status whether accepted or rejected.
+### 7. Visit the animal shelter for better viewing of pets especially the ones that you want to adopt and their condition.
+### 8. Talk to the owner or the person incharge to discuss details regarding pet adoption, whether if you are qualified or not and can take home the pet with you. 
 
 # Features:
 
